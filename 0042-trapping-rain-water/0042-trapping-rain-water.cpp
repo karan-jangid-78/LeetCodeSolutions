@@ -1,5 +1,5 @@
 class Solution {
-public:
+public://not an optmizeed sol 
     int trap(vector<int>& height) {
         int n=height.size();
 vector<int> prefixmax(n);
