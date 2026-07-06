@@ -6,7 +6,7 @@ public:
         vector<int> nse(n,-1);
         stack<int> st;
         for(int i=n-1;i>=0;i--){
-            while(!st.empty()&&arr[i]<arr[st.top()]){
+            while(!st.empty()&&arr[i]<=arr[st.top()]){
                 st.pop();
             }
             nse[i]=st.empty()?n:st.top();
@@ -17,13 +17,14 @@ public:
         }
         vector<int> psee(n,-1);
         for(int i=0;i<n;i++){
-            while(!st.empty()&&arr[i]<=arr[st.top()]){
+            while(!st.empty()&&arr[i]<arr[st.top()]){
                 st.pop();
             }
             psee[i]=st.empty()?-1:st.top();
             st.push(i);
         }
-
+        // in nse as <= and psee as < it starts from front counting the subarrays and doesnt count duplicacy when it comes to back
+        // the code when nse as < and psee as <= also works but it starts counting subarrays from back
         long long total=0;
         for(int i=0;i<n;i++){
         long long left=i-psee[i];
