@@ -6,7 +6,7 @@ public:
         vector<int> nse(n,-1);
         stack<int> st;
         for(int i=n-1;i>=0;i--){
-            while(!st.empty()&&arr[i]<=arr[st.top()]){
+            while(!st.empty()&&arr[i]<arr[st.top()]){
                 st.pop();
             }
             nse[i]=st.empty()?n:st.top();
@@ -17,7 +17,7 @@ public:
         }
         vector<int> psee(n,-1);
         for(int i=0;i<n;i++){
-            while(!st.empty()&&arr[i]<arr[st.top()]){
+            while(!st.empty()&&arr[i]<=arr[st.top()]){
                 st.pop();
             }
             psee[i]=st.empty()?-1:st.top();
