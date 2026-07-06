@@ -10,6 +10,7 @@ public:
             }
             st.push(num[i]);
         }
+        //remove the top k elements of stack of k still remains the same or k!=0
         while(k>0&&!st.empty()){
             st.pop();
             k--;
@@ -22,7 +23,7 @@ public:
             ans+=st.top();
             st.pop();
         }
-       
+       //remove the leading zeroes
         while(ans.size()!=0&&ans.back()=='0'){
             ans.pop_back();
         }
