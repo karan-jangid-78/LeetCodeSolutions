@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0735-asteroid-collision/) | Medium |
@@ -18,6 +19,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0402-remove-k-digits](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -28,6 +30,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0084-largest-rectangle-in-histogram](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0402-remove-k-digits](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0503-next-greater-element-ii/) | Medium |
