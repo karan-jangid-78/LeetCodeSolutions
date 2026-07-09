@@ -25,6 +25,7 @@
 | [0496-next-greater-element-i](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0735-asteroid-collision/) | Medium |
+| [0901-online-stock-span](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Monotonic Stack
@@ -35,6 +36,7 @@
 | [0402-remove-k-digits](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0901-online-stock-span](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Two Pointers
@@ -74,4 +76,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0239-sliding-window-maximum/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
