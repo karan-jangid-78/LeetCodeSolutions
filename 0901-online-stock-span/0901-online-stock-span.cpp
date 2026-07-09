@@ -4,7 +4,7 @@ public:
     int ans=INT_MIN;
     int index=-1;
     StockSpanner() {
-        index=-1;
+        
     }
     
     int next(int price) {
