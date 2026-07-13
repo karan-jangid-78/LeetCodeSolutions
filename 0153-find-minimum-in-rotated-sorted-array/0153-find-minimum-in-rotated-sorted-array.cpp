@@ -6,6 +6,7 @@ public:
         int ans=INT_MAX;
         while(low<=high){
             int mid=low+(high-low)/2;
+            //if the search space is sorted then no need to further apply binary search because nums[low] will be smaller in that search space
             if(nums[low]<=nums[high]){
                 ans=min(ans,nums[low]);
                 break;
