@@ -10,6 +10,7 @@
 | [0042-trapping-rain-water](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -95,4 +96,5 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0035-search-insert-position/) | Easy |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 <!---LeetCode Topics End-->
