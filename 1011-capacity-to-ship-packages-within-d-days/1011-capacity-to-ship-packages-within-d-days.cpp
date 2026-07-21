@@ -2,21 +2,16 @@ class Solution {
 public:
 bool solve(vector<int>& weights, int days,int capacity){
     int count=0;
-    int nod=0;
+    int nod=1;
     for(int i=0;i<weights.size();i++){
-        count+=weights[i];
-        if(count>capacity){
+        if(count+weights[i]<=capacity){
+           
+            count+=weights[i];
+        }
+        else{
             nod++;
             count=weights[i];
         }
-        else if(count==capacity){
-            count=0;
-            nod++;
-        }
-        else{continue;}
-    }
-    if(count>0){
-        nod++;
     }
     return nod<=days;
 }
