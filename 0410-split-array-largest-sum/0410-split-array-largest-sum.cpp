@@ -12,7 +12,7 @@ bool solve(vector<int>& nums, int k,int capacity){
             nop++;
         }
     }
-    return nop<=k;
+    return nop>k;
 }
     int splitArray(vector<int>& nums, int k) {
         int low=*max_element(nums.begin(),nums.end());
@@ -20,10 +20,10 @@ bool solve(vector<int>& nums, int k,int capacity){
         while(low<=high){
             int mid=low+(high-low)/2;
             if(solve(nums,k,mid)==true){
-                high=mid-1;
+                low=mid+1;
             }
             else{
-                low=mid+1;
+                high=mid-1;
             }
         }
         return low;
