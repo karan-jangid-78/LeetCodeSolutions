@@ -21,6 +21,7 @@
 | [0735-asteroid-collision](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -33,6 +34,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0930-binary-subarrays-with-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -92,6 +94,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0930-binary-subarrays-with-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Heap (Priority Queue)
@@ -131,6 +134,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0930-binary-subarrays-with-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Divide and Conquer
 | Problem Name | Difficulty |
