@@ -13,8 +13,9 @@ public:
             //second optimization using if instead of while
             if((r-l+1)-maxfreq>k){
                 hash[s[l]-'A']--;
-                maxfreq=0;
+                
                 //first optimization 
+                //maxfreq=0;
                 // for(int i=0;i<26;i++){
                 //     maxfreq=max(maxfreq,hash[i]);
                 // }
