@@ -21,7 +21,9 @@ public:
                 // }
                 l++;
             }
+            if((r-l+1)-maxfreq<=k){
             ans=max(ans,r-l+1);
+            }
             r++;
         }
         return ans;
