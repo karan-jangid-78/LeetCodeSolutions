@@ -31,6 +31,7 @@
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -146,6 +147,7 @@
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,4 +174,5 @@
 | ------- | ------- |
 | [0074-search-a-2d-matrix](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [1901-find-a-peak-element-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 <!---LeetCode Topics End-->
