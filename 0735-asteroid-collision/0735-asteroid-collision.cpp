@@ -7,6 +7,7 @@ public:
         for(int i=0;i<n;i++){
             if(asteroids[i]>0) st.push(asteroids[i]);
             else{
+                //the sequence of these loops and conditions matter a lot..identify which things happening first and by doing one thing does it matter to another one or not
                 while(!st.empty()&&st.top()>0&&abs(asteroids[i])>st.top()){
                     st.pop();
                 }
