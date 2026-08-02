@@ -1,7 +1,7 @@
 class Solution {
 public:
 int indexofmaxelement(vector<vector<int>>&mat,int n,int m,int col){
-    int index=0;
+    int index=0;//thinking as if all the elements of a col are INT_MIN
     int maxi=INT_MIN;
     for(int i=0;i<n;i++){
         if(mat[i][col]>=maxi){
