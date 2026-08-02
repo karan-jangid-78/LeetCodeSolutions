@@ -10,6 +10,7 @@
 | [0035-search-insert-position](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0078-subsets](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -175,4 +176,12 @@
 | [0074-search-a-2d-matrix](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
