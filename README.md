@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0046-permutations](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0046-permutations/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -180,6 +181,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0046-permutations](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0090-subsets-ii/) | Medium |
 ## Bit Manipulation
