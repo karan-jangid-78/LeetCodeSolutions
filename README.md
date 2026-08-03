@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0035-search-insert-position/) | Easy |
+| [0037-sudoku-solver](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0042-trapping-rain-water](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0046-permutations/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -40,6 +41,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0037-sudoku-solver](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0076-minimum-window-substring](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -175,12 +177,14 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0074-search-a-2d-matrix](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0037-sudoku-solver](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0046-permutations](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0090-subsets-ii/) | Medium |
@@ -189,4 +193,12 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0090-subsets-ii/) | Medium |
+## Algorithm X
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0037-sudoku-solver/) | Hard |
+## Dancing Links
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0037-sudoku-solver](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0037-sudoku-solver/) | Hard |
 <!---LeetCode Topics End-->
