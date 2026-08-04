@@ -174,6 +174,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0050-powx-n](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0050-powx-n/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -202,4 +203,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0037-sudoku-solver/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0050-powx-n](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0050-powx-n/) | Medium |
 <!---LeetCode Topics End-->
