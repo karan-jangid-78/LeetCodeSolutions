@@ -15,7 +15,7 @@ void solve(string &s,int index){
         }
     }
 }
-bool ispalindrome(string s,int index,int i){
+bool ispalindrome(string &s,int index,int i){
     while(index<=i){
         if(s[index++]!=s[i--]) return false;
     }
