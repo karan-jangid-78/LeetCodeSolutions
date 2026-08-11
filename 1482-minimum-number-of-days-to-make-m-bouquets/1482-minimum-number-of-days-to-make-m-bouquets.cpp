@@ -1,35 +1,33 @@
 class Solution {
 public:
-bool solve(vector<int>& bloomDay, int m, int k,int day){
-    long long count=0;
-    long long nob=0;
-    for(int i=0;i<bloomDay.size();i++){
-        if(day>=bloomDay[i]){
-            count++;
-        }
-        else{
-            nob+=count/k;
-            count=0;
+int solve(int day,vector<int>& bloomDay,int k){
+    int cnt=0;
+    int boquets=0;
+    int n=bloomDay.size();
+    for(int i=0;i<n;i++){
+        if(day>=bloomDay[i]) cnt++;
+        else {
+             boquets+=cnt/k;
+             cnt=0;
         }
     }
-    nob+=count/k;
-    return nob>=m;
+    boquets+=cnt/k;
+    return boquets;
 }
     int minDays(vector<int>& bloomDay, int m, int k) {
         int n=bloomDay.size();
         if(n<(long long)m*k) return -1;
-        int min=*min_element(bloomDay.begin(),bloomDay.end());
-        int max=*max_element(bloomDay.begin(),bloomDay.end());
-        int low=min,high=max;
+        int maxi=INT_MIN;
+        for(int i=0;i<n;i++){
+            if(bloomDay[i]>maxi) maxi=bloomDay[i];
+        }
+        int low=1,high=maxi;
         while(low<=high){
             int mid=low+(high-low)/2;
-            if(solve(bloomDay,m,k,mid)==false){
-                low=mid+1;
-            }
-            else{high=mid-1;
-            }
+            int boque=solve(mid,bloomDay,k);
+            if(boque<m) low=mid+1;
+            else high=mid-1;
         }
         return low;
-        
     }
 };
