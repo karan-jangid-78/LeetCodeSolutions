@@ -84,6 +84,7 @@
 | [0131-palindrome-partitioning](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,6 +99,7 @@
 | [0131-palindrome-partitioning](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0402-remove-k-digits](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [1092-shortest-common-supersequence](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,4 +212,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0050-powx-n/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1092-shortest-common-supersequence](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 <!---LeetCode Topics End-->
