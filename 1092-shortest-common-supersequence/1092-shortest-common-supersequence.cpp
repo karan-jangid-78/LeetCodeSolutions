@@ -1,36 +1,5 @@
 class Solution {
 public:
-string ans="";
-void func(int i,int j,string&str1,string&str2,vector<vector<int>>& dp){
-    if(j==0){
-        while(i>0){
-        ans.push_back(str1[i-1]);
-        i--;
-        }
-        return;
-    }
-    if(i==0){
-        while(j>0){
-        ans.push_back(str2[j-1]);
-        j--;
-        }
-        return;
-    }
-    if(str1[i-1]==str2[j-1]){
-        ans.push_back(str1[i-1]);
-        func(i-1,j-1,str1,str2,dp);
-    }
-    else{
-        if(dp[i-1][j]>=dp[i][j-1]){
-            ans.push_back(str1[i-1]);
-            func(i-1,j,str1,str2,dp);
-        }
-        else{
-            ans.push_back(str2[j-1]);
-            func(i,j-1,str1,str2,dp);
-        }
-    }
-}
     string shortestCommonSupersequence(string str1, string str2) {
         int n=str1.size();
         int m=str2.size();
@@ -43,7 +12,35 @@ void func(int i,int j,string&str1,string&str2,vector<vector<int>>& dp){
                 else dp[i][j]=max(dp[i-1][j],dp[i][j-1]);
             }
         }
-        func(n,m,str1,str2,dp);
+        string ans="";
+        int i=n;
+        int j=m;
+        while(i>0&&j>0){
+            if(str1[i-1]==str2[j-1]){
+                ans+=str1[i-1];
+                i--;
+                j--;
+            }
+            else{
+                if(dp[i][j-1]>=dp[i-1][j]){
+                    ans+=str2[j-1];
+                    j--;
+                }
+                else{
+                    ans+=str1[i-1];
+                    i--;          
+                  }
+            }
+        }
+        //exhausted cases
+        while(i>0){
+            ans+=str1[i-1];
+            i--;
+        }
+        while(j>0){
+            ans+=str2[j-1];
+            j--;
+        }
         string temp=ans;
         reverse(temp.begin(),temp.end());
         return temp;
