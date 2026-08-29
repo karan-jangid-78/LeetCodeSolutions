@@ -2,20 +2,21 @@ class Solution {
 public:
     int change(int amount, vector<int>& coins) {
         int n=coins.size();
-        vector<vector<unsigned long long>> dp(n+1,vector<unsigned long long>(amount+1,0));
+         vector<int> prev(amount+1,0), cur(amount+1,0);
         for(int target=0;target<=amount;target++){
-            if(target%coins[0]==0) dp[0][target]=1;
+            if(target%coins[0]==0) prev[target]=1;
         }
         for(int index=1;index<n;index++){
             for(int target=0;target<=amount;target++){
-        unsigned long long nottake=dp[index-1][target];
+        unsigned long long nottake=prev[target];
         unsigned long long take=0;
         if(coins[index]<=target){
-            take=dp[index][target-coins[index]];
+            take=cur[target-coins[index]];
         }
-        dp[index][target]= take+nottake;
+        cur[target]= take+nottake;
             }
+            prev=cur;
         }
-        return (int)dp[n-1][amount];
+        return (int)prev[amount];
     }
 };
