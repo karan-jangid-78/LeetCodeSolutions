@@ -22,6 +22,7 @@
 | [0240-search-a-2d-matrix-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0322-coin-change](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0494-target-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -87,6 +88,7 @@
 | [0131-palindrome-partitioning](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0322-coin-change](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0494-target-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0494-target-sum/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 ## Simulation
@@ -200,6 +202,7 @@
 | [0078-subsets](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0090-subsets-ii/) | Medium |
 | [0131-palindrome-partitioning](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0494-target-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0494-target-sum/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -229,8 +232,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0322-coin-change/) | Medium |
+| [0494-target-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0494-target-sum/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0322-coin-change/) | Medium |
+## 0-1 Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0494-target-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0494-target-sum/) | Medium |
 <!---LeetCode Topics End-->
