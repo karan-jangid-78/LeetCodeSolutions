@@ -25,6 +25,7 @@
 | [0494-target-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0494-target-sum/) | Medium |
 | [0496-next-greater-element-i](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0518-coin-change-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0735-asteroid-collision](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0735-asteroid-collision/) | Medium |
@@ -89,6 +90,7 @@
 | [0322-coin-change](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0494-target-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0494-target-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 ## Simulation
@@ -233,10 +235,12 @@
 | ------- | ------- |
 | [0322-coin-change](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0322-coin-change/) | Medium |
 | [0494-target-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0494-target-sum/) | Medium |
+| [0518-coin-change-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0518-coin-change-ii/) | Medium |
 ## Complete Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0322-coin-change/) | Medium |
+| [0518-coin-change-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0518-coin-change-ii/) | Medium |
 ## 0-1 Knapsack
 | Problem Name | Difficulty |
 | ------- | ------- |
