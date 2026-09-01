@@ -2,21 +2,23 @@ class Solution {
 public:
     int maxProfit(vector<int>& prices) {
         int n=prices.size();
-        vector<vector<int>> dp(n+1,vector<int>(4+1,0));
+       vector<int> after(4+1,0);
+       vector<int> cur(4+1,0);
         for(int index=n-1;index>=0;index--){
             for(int tranNo=3;tranNo>=0;tranNo--){
                 int profit=0;
                 if(tranNo%2==0){
-                    profit=max(-prices[index]+dp[index+1][tranNo+1],//take
-                    dp[index+1][tranNo]);
+                    profit=max(-prices[index]+after[tranNo+1],//take
+                    after[tranNo]);
                     }//not take
                 else{
-                    profit=max(prices[index]+dp[index+1][tranNo+1],//take
-                    dp[index+1][tranNo]);//nottake
+                    profit=max(prices[index]+after[tranNo+1],//take
+                    after[tranNo]);//nottake
                 }
-                 dp[index][tranNo]=profit;
+                 cur[tranNo]=profit;
             }
+            after=cur;
         }
-        return dp[0][0];
+        return after[0];
     }
 };
