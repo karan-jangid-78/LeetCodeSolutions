@@ -3,7 +3,6 @@ public:
     int lengthOfLIS(vector<int>& nums) {
         int n=nums.size();
         vector<vector<int>> dp(n+1,vector<int>(n+1,0));
-        for(int previndex=0;previndex<n;previndex++) dp[n][previndex]=0;
         for(int index=n-1;index>=0;index--){
             for(int previndex=n-1;previndex>=-1;previndex--){
                 int nottake=dp[index+1][previndex+1];
