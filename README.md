@@ -98,6 +98,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0132-palindrome-partitioning-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0300-longest-increasing-subsequence](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0300-longest-increasing-subsequence/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
@@ -121,6 +122,7 @@
 | [0020-valid-parentheses](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0131-palindrome-partitioning/) | Medium |
+| [0132-palindrome-partitioning-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0402-remove-k-digits](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1092-shortest-common-supersequence/) | Hard |
