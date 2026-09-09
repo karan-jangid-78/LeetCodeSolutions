@@ -43,6 +43,7 @@
 | [0992-subarrays-with-k-different-integers](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1043-partition-array-for-maximum-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -109,6 +110,7 @@
 | [0518-coin-change-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [1043-partition-array-for-maximum-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
