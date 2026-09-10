@@ -18,6 +18,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0090-subsets-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0090-subsets-ii/) | Medium |
+| [0120-triangle](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -100,6 +101,7 @@
 | [0062-unique-paths](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0120-triangle](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
