@@ -12,6 +12,7 @@
 | [0042-trapping-rain-water](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0046-permutations/) | Medium |
 | [0063-unique-paths-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0078-subsets](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -98,6 +99,7 @@
 | [0042-trapping-rain-water](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0062-unique-paths](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0123-best-time-to-buy-and-sell-stock-iii/) | Hard |
@@ -221,6 +223,7 @@
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0037-sudoku-solver/) | Hard |
 | [0063-unique-paths-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0064-minimum-path-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
