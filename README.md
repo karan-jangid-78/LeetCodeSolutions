@@ -43,6 +43,7 @@
 | [0875-koko-eating-bananas](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
@@ -117,6 +118,7 @@
 | [0518-coin-change-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 ## Simulation
@@ -228,6 +230,7 @@
 | [0064-minimum-path-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0064-minimum-path-sum/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1901-find-a-peak-element-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
