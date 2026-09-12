@@ -39,8 +39,8 @@ public:
             ans+=str2[j-1];
             j--;
           }
-          string temp=ans;
-          reverse(temp.begin(),temp.end());
-          return temp;
+        //   string temp=ans;
+          reverse(ans.begin(),ans.end());
+          return ans;
     }
 };
