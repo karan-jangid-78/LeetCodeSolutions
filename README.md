@@ -123,6 +123,7 @@
 | [1043-partition-array-for-maximum-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -141,6 +142,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1143-longest-common-subsequence/) | Medium |
+| [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
