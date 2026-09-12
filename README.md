@@ -122,6 +122,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1092-shortest-common-supersequence/) | Hard |
+| [1143-longest-common-subsequence](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -139,6 +140,7 @@
 | [0402-remove-k-digits](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1092-shortest-common-supersequence/) | Hard |
+| [1143-longest-common-subsequence](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -265,6 +267,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1092-shortest-common-supersequence](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1092-shortest-common-supersequence/) | Hard |
+| [1143-longest-common-subsequence](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
