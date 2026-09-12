@@ -103,6 +103,7 @@
 | [0062-unique-paths](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0072-edit-distance](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -137,6 +138,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0072-edit-distance](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0115-distinct-subsequences](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0131-palindrome-partitioning/) | Medium |
