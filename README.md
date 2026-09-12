@@ -103,6 +103,7 @@
 | [0062-unique-paths](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0115-distinct-subsequences](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -137,6 +138,7 @@
 | [0008-string-to-integer-atoi](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0076-minimum-window-substring/) | Hard |
+| [0115-distinct-subsequences](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0131-palindrome-partitioning](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0131-palindrome-partitioning/) | Medium |
 | [0132-palindrome-partitioning-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0132-palindrome-partitioning-ii/) | Hard |
 | [0402-remove-k-digits](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0402-remove-k-digits/) | Medium |
