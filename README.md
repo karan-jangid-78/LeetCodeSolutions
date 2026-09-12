@@ -100,6 +100,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0044-wildcard-matching](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0062-unique-paths](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0064-minimum-path-sum/) | Medium |
@@ -138,6 +139,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0020-valid-parentheses/) | Easy |
+| [0044-wildcard-matching](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0072-edit-distance](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0072-edit-distance/) | Medium |
 | [0076-minimum-window-substring](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0115-distinct-subsequences](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0115-distinct-subsequences/) | Hard |
@@ -152,6 +154,7 @@
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0402-remove-k-digits](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -270,6 +273,7 @@
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0044-wildcard-matching](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0044-wildcard-matching/) | Hard |
 | [0050-powx-n](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0050-powx-n/) | Medium |
 ## Longest Common Subsequence
 | Problem Name | Difficulty |
