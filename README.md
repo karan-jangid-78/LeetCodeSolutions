@@ -97,6 +97,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -131,6 +132,7 @@
 | [1143-longest-common-subsequence](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +155,7 @@
 | [1092-shortest-common-supersequence](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1092-shortest-common-supersequence/) | Hard |
 | [1143-longest-common-subsequence](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -161,6 +164,7 @@
 | [0402-remove-k-digits](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
