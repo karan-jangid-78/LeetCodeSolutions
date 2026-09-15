@@ -54,6 +54,7 @@
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1901-find-a-peak-element-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Hash Table
@@ -132,6 +133,7 @@
 | [1143-longest-common-subsequence](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1463-cherry-pickup-ii/) | Hard |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Simulation
 | Problem Name | Difficulty |
@@ -319,4 +321,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0368-largest-divisible-subset](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0368-largest-divisible-subset/) | Medium |
+| [1547-minimum-cost-to-cut-a-stick](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 <!---LeetCode Topics End-->
