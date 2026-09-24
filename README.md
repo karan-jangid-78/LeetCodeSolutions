@@ -110,6 +110,7 @@
 | [0062-unique-paths](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0064-minimum-path-sum/) | Medium |
+| [0070-climbing-stairs](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0072-edit-distance](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0072-edit-distance/) | Medium |
 | [0115-distinct-subsequences](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0115-distinct-subsequences/) | Hard |
 | [0120-triangle](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0120-triangle/) | Medium |
@@ -252,6 +253,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0050-powx-n/) | Medium |
 | [0062-unique-paths](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0062-unique-paths/) | Medium |
+| [0070-climbing-stairs](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -333,4 +335,8 @@
 | ------- | ------- |
 | [0368-largest-divisible-subset](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
