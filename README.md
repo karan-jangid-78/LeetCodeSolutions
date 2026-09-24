@@ -58,6 +58,7 @@
 | [1547-minimum-cost-to-cut-a-stick](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1547-minimum-cost-to-cut-a-stick/) | Hard |
 | [1901-find-a-peak-element-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1901-find-a-peak-element-ii/) | Medium |
 | [2104-sum-of-subarray-ranges](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -254,6 +255,7 @@
 | [0368-largest-divisible-subset](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0368-largest-divisible-subset/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
