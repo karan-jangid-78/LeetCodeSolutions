@@ -43,6 +43,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0735-asteroid-collision](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0735-asteroid-collision/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -134,6 +135,7 @@
 | [0518-coin-change-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0518-coin-change-ii/) | Medium |
 | [0583-delete-operation-for-two-strings](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0583-delete-operation-for-two-strings/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0907-sum-of-subarray-minimums](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
