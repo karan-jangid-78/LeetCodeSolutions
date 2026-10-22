@@ -2,11 +2,12 @@ class Solution {
 public:
     int rob(vector<int>& nums) {
         int n=nums.size();
-        vector<int> dp(n+2,0);
-        for(int index=n-1;index>=0;index--){
-            int nottake=0+dp[index+1];
-            int take=nums[index]+dp[index+2];
-            dp[index]=max(nottake,take);
+        vector<int> dp(n+1,0);
+        dp[n-1]=nums[n-1];
+        for(int i=n-2;i>=0;i--){
+            int take=nums[i]+dp[i+2];
+            int nottake=dp[i+1];
+            dp[i]=max(take,nottake);
         }
         return dp[0];
     }
