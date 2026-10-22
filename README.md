@@ -52,6 +52,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
+| [1140-stone-game-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1283-find-the-smallest-divisor-given-a-threshold/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -140,6 +141,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [1043-partition-array-for-maximum-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1043-partition-array-for-maximum-sum/) | Medium |
 | [1092-shortest-common-supersequence](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1092-shortest-common-supersequence/) | Hard |
+| [1140-stone-game-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1312-minimum-insertion-steps-to-make-a-string-palindrome/) | Hard |
 | [1463-cherry-pickup-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1463-cherry-pickup-ii/) | Hard |
@@ -242,6 +244,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1140-stone-game-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -261,6 +264,7 @@
 | [0062-unique-paths](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0070-climbing-stairs/) | Easy |
 | [0368-largest-divisible-subset](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0368-largest-divisible-subset/) | Medium |
+| [1140-stone-game-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1140-stone-game-ii/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -345,4 +349,16 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0070-climbing-stairs/) | Easy |
+## Minimax
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1140-stone-game-ii/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1140-stone-game-ii/) | Medium |
+## Zero-Sum Game
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1140-stone-game-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/1140-stone-game-ii/) | Medium |
 <!---LeetCode Topics End-->
