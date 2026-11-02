@@ -9,6 +9,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0035-search-insert-position/) | Easy |
 | [0037-sudoku-solver](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0046-permutations/) | Medium |
 | [0063-unique-paths-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0063-unique-paths-ii/) | Medium |
@@ -283,6 +284,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0037-sudoku-solver](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0037-sudoku-solver/) | Hard |
+| [0039-combination-sum](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/karan-jangid-78/LeetCodeSolutions/tree/main/0090-subsets-ii/) | Medium |
